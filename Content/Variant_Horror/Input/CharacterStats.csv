@@ -1,0 +1,7 @@
+---,HasEquipment?,Health,OverShield,Coins
+Health,TRUE,100,150,100
+Overshield,TRUE,100,150,0
+HasEquipment?,TRUE,100,150,0
+HasCoins,FALSE,100,150,0
+NewRow_3,FALSE,0,0,0
+NewRow_4,FALSE,0,0,0
